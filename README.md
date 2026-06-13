@@ -8,7 +8,7 @@
 > **Sopi Vidi** adalah tools downloader video Shopee yang powerful dengan tampilan interaktif, animasi warna-warni, dan dukungan kualitas terbaik (V720P).
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400?text=Sopi+Vidi+Screenshot" alt="Sopi Vidi Demo">
+  <img src="Screenshot_20260614-001305.png" alt="Sopi Vidi Demo">
 </div>
 
 ## ✨ Fitur Unggulan
